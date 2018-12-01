@@ -1,1 +1,1 @@
-add_executable(test калькулятор для обыкновенных дробей.cpp)
+add_executable(test calc_drob.cpp)
